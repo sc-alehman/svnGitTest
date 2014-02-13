@@ -1,4 +1,4 @@
-git-svn-sync-test
+svnGitTest
 =================
 
 repository to test git and svn sync
