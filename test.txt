@@ -8,4 +8,5 @@ Second new line.
 A 3rd line.
 A 4th line.
 A 5th line.
+A 6th line.
 A 7th line.
